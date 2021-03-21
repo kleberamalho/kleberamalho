@@ -1,0 +1,13 @@
+body {
+    background-image: url(2.jpg);
+}
+h1 {
+color: rgb(248, 239, 239);
+text-align: center;
+opacity: 0.7;
+
+}
+div {
+    opacity: 0.8;
+    text-align: center;
+}
